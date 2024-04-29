@@ -1,8 +1,13 @@
-### Hi there 👋
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jaewook's%20Github&fontSize=90)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaek-Kein&show_icons=true&theme=catppuccin_latte)
 <!--
 **Jaek-Kein/Jaek-Kein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+🌱 I’m currently learning ![Static Badge](https://img.shields.io/badge/kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Static Badge](https://img.shields.io/badge/mariadb-%23003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
 
 Here are some ideas to get you started:
 
