@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=#00AF9C&height=300&section=header&text=Jaewook's%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=8ef280&height=300&section=header&text=Jaewook's%20Github&fontSize=70&rotate=19&fontAlign=60&fontAlignY=40&fontColor=ffffff)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaek-Kein&show_icons=true&theme=catppuccin_latte)
