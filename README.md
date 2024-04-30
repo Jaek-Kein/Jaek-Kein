@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=8ef280&height=300&section=header&text=Jaewook's%20Github&fontSize=40&fontAlign=20&fontAlignY=95)
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning ... <br>
 ![Static Badge](https://img.shields.io/badge/kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Static Badge](https://img.shields.io/badge/mariadb-%23003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaek-Kein&show_icons=true&theme=catppuccin_latte)
