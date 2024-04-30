@@ -8,7 +8,7 @@
 🛠️ Tech Stack - Used at least once in history<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Static Badge](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Static Badge](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=white) ![Static Badge](https://img.shields.io/badge/c-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Static Badge](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
-<br>
+---
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yearsingle)](https://solved.ac/yearsingle)
 
