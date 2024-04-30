@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaek-Kein&show_icons=true&theme=catppuccin_latte)
 
-[Static Badge](https://img.shields.io/badge/kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Static Badge](https://img.shields.io/badge/mariadb-%23003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Static Badge](https://img.shields.io/badge/kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Static Badge](https://img.shields.io/badge/mariadb-%23003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 
 
