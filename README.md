@@ -1,11 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=8ef280&height=300&section=header&text=Jaewook's%20Github&fontSize=40&fontAlign=20&fontAlignY=95)
 
-🌱 I’m currently learning ... <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-🛠️ Tech Stack - Used at least once in history<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Static Badge](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Static Badge](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=white) ![Static Badge](https://img.shields.io/badge/c-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Static Badge](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white) ![Static Badge](https://img.shields.io/badge/kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Static Badge](https://img.shields.io/badge/mariadb-%23003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ---
