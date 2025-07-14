@@ -1,5 +1,10 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-# 🧱 MyStacks
+# Hello World
+
+I'm a Frontend Developer who aims for Full Stack Developer
+
+•  GDGoC Sahmyook 2024 ~
+
+## 🧱 MyStacks
 ### 🌐 Language
 ![Typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
