@@ -1,16 +1,22 @@
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+# 🧱 MyStacks
+### 🌐 Language
+![Typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=8ef280&height=300&section=header&text=Jaewook's%20Github&fontSize=40&fontAlign=20&fontAlignY=95)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Static Badge](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Static Badge](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=white) ![Static Badge](https://img.shields.io/badge/c-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Static Badge](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white) ![Static Badge](https://img.shields.io/badge/kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Static Badge](https://img.shields.io/badge/mariadb-%23003545?style=for-the-badge&logo=mariadb&logoColor=white)
+### 🔧 Tools
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaek-kein)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yearsingle)](https://solved.ac/yearsingle)
-
-
-
-
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yearsingle)](https://solved.ac/yearsingle) 
 
 
 
