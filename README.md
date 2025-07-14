@@ -1,4 +1,4 @@
-# Hello World
+# Hello World 👋
 
 I'm a Frontend Developer who aims for Full Stack Developer
 
