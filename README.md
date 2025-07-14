@@ -7,7 +7,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yearsingle)](https://solved.ac/yearsingle)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaek-Kein&show_icons=true&theme=dark)
 
 
 
