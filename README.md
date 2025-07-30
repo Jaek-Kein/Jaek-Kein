@@ -1,5 +1,5 @@
 # Hello World 👋
-
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@yearsingle/posts)<br/>
 I'm a Frontend Developer who aims for Full Stack Developer
 
 •  GDGoC Sahmyook 2024 ~
