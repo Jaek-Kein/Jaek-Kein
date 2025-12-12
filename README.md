@@ -19,8 +19,7 @@ I'm a Frontend Developer who aims for Full Stack Developer
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-### 🧩 BOJ / Solved.ac (PS)
---- 
+## 🧩 BOJ / Solved.ac (PS)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yearsingle)](https://solved.ac/yearsingle) 
 
 
