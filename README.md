@@ -3,7 +3,7 @@
 I'm a Frontend Developer who aims for Full Stack Developer
 
 •  Sahmyook University 2019 ~ 2026 | Bachelor's Degree on Computer Science<br>
-•  GDGoC Sahmyook 2024 ~
+•  GDGoC Sahmyook 2024 ~ 2026
 
 ## 🧱 MyStacks
 ### 🌐 Language
