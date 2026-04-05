@@ -2,6 +2,10 @@
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@yearsingle/posts)<br/>
 I'm a Frontend Developer who aims for Full Stack Developer
 
+# Now working on 
+- Hum - workbook gerating service for second laguage training
+- Mailable - Simple event management service connected to google servey
+
 •  Sahmyook University 2019 ~ 2026 | Bachelor's Degree on Computer Science<br>
 •  GDGoC Sahmyook 2024 ~ 2026
 
