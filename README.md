@@ -28,7 +28,7 @@ I'm a Frontend Developer who aims for Full Stack Developer
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 # 🔭 I’m currently working on
-- Hum - workbook gerating service for second laguage training
+- Hum - workbook generating service for second laguage training
 - Mailable - Simple event management service connected to google servey
 
 ## 🧩 BOJ / Solved.ac (PS)
