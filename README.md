@@ -1,9 +1,12 @@
-# Hello World 👋
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@yearsingle/posts)<br/>
-I'm a Frontend Developer who aims for Full Stack Developer
+![header](https://capsule-render.vercel.app/api?type=waving&text=Jaewook%20Kim&fontSize=50&fontAlign=80&height=200&fontColor=454545&desc=Web%20Developer&descAlign=90&descAlignY=30&animation=blink)
+<br/>
+Hello World 👋
+I'm a Frontend Developer who aims for Full Stack Developer<br/>
 
 •  Sahmyook University 2019 ~ 2026 | Bachelor's Degree on Computer Science<br>
 •  GDGoC Sahmyook 2024 ~ 2026
+
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@yearsingle/posts)
 
 ## 🧱 MyStacks
 ### 🌐 Language
