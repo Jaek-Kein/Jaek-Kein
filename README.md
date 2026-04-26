@@ -31,9 +31,9 @@ I'm a Frontend Developer who aims for Full Stack Developer<br/>
 
 <div align="left">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=jaek-kein&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2f80ed&text_color=434d58&icon_color=4c71f2" />
+  <img height="195" src="./profile/stats.svg" />
 </a><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaek-kein&layout=donut&hide_border=true&bg_color=ffffff&title_color=2f80ed&text_color=434d58&langs_count=5&card_width=300" />
+  <img height="195" src="./profile/top-langs.svg" />
 </a>
 </div>
 
