@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Jaewook%20Kim&fontSize=50&fontAlign=80&height=200&fontColor=454545&desc=Web%20Developer&descAlign=90&descAlignY=30&animation=blink)
-<br/>
-Hello World 👋
+### Hello World 👋
 I'm a Frontend Developer who aims for Full Stack Developer<br/>
 
 •  Sahmyook University 2019 ~ 2026 | Bachelor's Degree on Computer Science<br>
@@ -30,12 +29,27 @@ I'm a Frontend Developer who aims for Full Stack Developer<br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-# 🔭 I’m currently working on
-- Hum - workbook generating service for second laguage training
-- Mailable - Simple event management service connected to google servey
+<div align="left">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=jaek-kein&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2f80ed&text_color=434d58&icon_color=4c71f2" />
+</a><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaek-kein&layout=donut&hide_border=true&bg_color=ffffff&title_color=2f80ed&text_color=434d58&langs_count=5&card_width=300" />
+</a>
+</div>
 
-## 🧩 BOJ / Solved.ac (PS)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yearsingle)](https://solved.ac/yearsingle) 
+## 🔭 My on-going works
+### Hum
+workbook generating service for second laguage training
+- Typescript
+- Springboot
+</br></br>
+### Mailable
+Simple event management service connected to google servey
+- Next.js
+
+
+
+
 
 
 
