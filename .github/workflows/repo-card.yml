@@ -37,10 +37,11 @@ jobs:
       - name: Set username
         id: vars
         run: |
-          if [ -z "${{ inputs.org }}" ]; then
+          ORG="${{ inputs.org }}"
+          if [ -z "$ORG" ]; then
             echo "username=${{ github.repository_owner }} >> $GITHUB_OUTPUT
           else
-            echo "username=${{ inputs.org }}" >> $GITHUB_OUTPUT
+            echo "username=$ORG" >> $GITHUB_OUTPUT
 
       - name: Generate repo card
         uses: readme-tools/github-readme-stats-action@v1
