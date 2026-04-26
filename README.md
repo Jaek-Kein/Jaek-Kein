@@ -36,7 +36,8 @@ I'm a Frontend Developer who aims for Full Stack Developer<br/>
 
 ## 🔭 현재 참여/진행중인 프로젝트
 <h3>Hum</h3>
-<img align="right" height="195" src="./profile/pin-HUM_Frontend.svg" />
+
+<a href="https://github.com/Team-dumbbell/HUM_Frontend"><img align="right" height="195" src="./profile/pin-HUM_Frontend.svg" /></a>
 
 사람은 하루에 약 <b>2시간</b> 정도를 음악을 듣는다는 통계가있습니다. </br>
 출퇴근 시간, 등하교 시간이 주로 음악을 듣는시간이죠. </br>
@@ -46,7 +47,7 @@ I'm a Frontend Developer who aims for Full Stack Developer<br/>
 <br clear="right"/>
 
 <h3>Mailable</h3>
-<img align="right" height="195" src="./profile/pin-Mailable.svg" />
+<a href="https://github.com/Jaek-Kein/Mailable"><img align="right" height="195" src="./profile/pin-Mailable.svg" /></a>
 많은 소규모 행사들에선 현재 <b>Google Form</b> 를 활용해서 신청을 받고 </br>
 이에 연계되는 <b>Google Sheets</b> 를 활용하여 참여자를 관리하고 </br>
 확인 이메일을 수동으로 매번 <b>복사/붙여넣기</b> 하여 보냅니다. </br>
