@@ -9,7 +9,7 @@ on:
         default: ""
         type: string
       repo:
-        description: "repository 이름 "
+        description: "repository 이름"
         required: true
         type: string
       theme:
@@ -39,9 +39,10 @@ jobs:
         run: |
           ORG="${{ inputs.org }}"
           if [ -z "$ORG" ]; then
-            echo "username=${{ github.repository_owner }} >> $GITHUB_OUTPUT
+            echo "username=${{ github.repository_owner }}" >> $GITHUB_OUTPUT
           else
             echo "username=$ORG" >> $GITHUB_OUTPUT
+          fi
 
       - name: Generate repo card
         uses: readme-tools/github-readme-stats-action@v1
