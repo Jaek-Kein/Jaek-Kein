@@ -30,11 +30,8 @@ I'm a Frontend Developer who aims for Full Stack Developer<br/>
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 <div align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="195" src="./profile/stats.svg" />
-</a><a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="195" src="./profile/top-langs.svg" />
-</a>
 </div>
 
 ## 🔭 My on-going works
