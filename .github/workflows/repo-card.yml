@@ -48,7 +48,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ steps.vars.outputs.username }}&repo=${{ inputs.repo }}&theme=${{ inputs.theme }}&hide_border=${{ inputs.hide_border }}&bg_color=ffffff&description_lines_count=3
+          options: username=${{ steps.vars.outputs.username }}&repo=${{ inputs.repo }}&theme=${{ inputs.theme }}&hide_border=${{ inputs.hide_border }}&bg_color=ffffff
           path: profile/pin-${{ inputs.repo }}.svg
           token: ${{ secrets.GH_TOKEN }}
 
