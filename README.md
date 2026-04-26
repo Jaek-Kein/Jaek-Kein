@@ -35,15 +35,21 @@ I'm a Frontend Developer who aims for Full Stack Developer<br/>
 </div>
 
 ## 🔭 My on-going works
+
+<img align="right" height="195" src="./profile/pin-HUM_Frontend.svg" />
 ### Hum
 workbook generating service for second laguage training
 - Typescript
 - Springboot
-</br></br>
-### Mailable
-Simple event management service connected to google servey
-- Next.js
+<br clear="right"/>
 
+<img align="right" height="195" src="./profile/pin-Mailable.svg" />
+### Mailable
+Simple event management service connected to google survey
+- Next.js
+- typescript
+
+<br clear="right"/>
 
 
 
