@@ -3,8 +3,13 @@ name: Generate repo card
 on:
   workflow_dispatch:
     inputs:
+      org:
+        description: "organization 이름 (없으면 공백)"
+        required: false
+        default: ""
+        type: string
       repo:
-        description: "레포 이름 (예: my-awesome-project)"
+        description: "repository 이름 "
         required: true
         type: string
       theme:
@@ -29,11 +34,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Set username
+        id: vars
+        run: |
+          if [ -z "${{ inputs.org }}" ]; then
+            echo "username=${{ github.repository_owner }} >> $GITHUB_OUTPUT
+          else
+            echo "username=${{ inputs.org }}" >> $GITHUB_OUTPUT
+
       - name: Generate repo card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=${{ inputs.repo }}&theme=${{ inputs.theme }}&hide_border=${{ inputs.hide_border }}&bg_color=ffffff
+          options: username=${{ steps.vars.outputs.username }}&repo=${{ inputs.repo }}&theme=${{ inputs.theme }}&hide_border=${{ inputs.hide_border }}&bg_color=ffffff
           path: profile/pin-${{ inputs.repo }}.svg
           token: ${{ secrets.GH_TOKEN }}
 
