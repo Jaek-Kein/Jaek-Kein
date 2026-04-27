@@ -4,7 +4,7 @@ I'm a Web Developer who's got intesrest in Interective Web and Modern JS <br/>
 
 •  Sahmyook University 2019 ~ 2026 | Bachelor's Degree on Computer Science<br>
 •  GDGoC Sahmyook 2024 ~ 2026<br/>
-•  K-Digital Training 2025 | radiology API related Fullstack Developer Course with Java
+•  K-Digital Training 2025 | Radiology API related Fullstack Developer Course with Java
 
 **Blog** </br></br>
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@yearsingle/posts) 
