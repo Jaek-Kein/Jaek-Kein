@@ -3,7 +3,7 @@
 I'm a Web Developer who's got intesrest in Interective Web and Modern JS <br/>
 
 •  Sahmyook University 2019 ~ 2026 | Bachelor's Degree on Computer Science<br>
-•  GDGoC Sahmyook 2024 ~ 2026
+•  GDGoC Sahmyook 2024 ~ 2026<br/>
 •  K-Digital Training 2025 | radiology API related Fullstack Developer Course with Java
 
 **Blog** </br></br>
