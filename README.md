@@ -9,8 +9,6 @@ I'm a Web Developer who's got intesrest in Interective Web and Modern JS <br/>
 **Blog** </br></br>
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@yearsingle/posts) 
 
-Writes about Frontend Tech and Project Review
-
 ## 🧱 MyStacks
 ### 🌐 Language
 ![Typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
