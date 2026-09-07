@@ -57,7 +57,9 @@ I'm a Web Developer who's got intesrest in Interective Web and Modern JS <br/>
 
 <br clear="right"/>
 
-
+## 배포 된 간단 툴 모음
+**이력서 작성기**
+https://jaek-kein.github.io/Resume-Studio/
 
 
 
