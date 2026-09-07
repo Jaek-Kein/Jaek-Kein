@@ -32,7 +32,6 @@ I'm a Web Developer who's got intesrest in Interective Web and Modern JS <br/>
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 <div align="left">
-  <img height="195" src="./profile/stats.svg" />
   <img height="195" src="./profile/top-langs.svg" />
 </div>
 
