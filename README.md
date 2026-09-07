@@ -54,6 +54,9 @@ I'm a Web Developer who's got intesrest in Interective Web and Modern JS <br/>
 확인 이메일을 수동으로 매번 <b>복사/붙여넣기</b> 하여 보냅니다. </br>
 <b>"Google Sheets 데이터만 가져올 수 있다면. 하나에 사이트에서 해결할 수 있지 않을까?"</b> 라는 작은 불편함을 해결하고자 시작한 프로젝트입니다. 
 
+<h3>Outscope</h3>
+손으로 개발을 하면 중첩된 괄호들을 매번 화살표로 탈출하기 귀찮습니다. 그렇다고 end 나 home 으로 탈출하자니 내가 수정하고자 하는 함수 위치를 넘어가기도 하죠.
+Outscope 는 이를 편리하게 만들기 위해 AST 기반으로 탈출 위치를 분석하여 키바인딩으로 탈출시켜주는 VSCode 확장입니다.
 
 <br clear="right"/>
 
